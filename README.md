@@ -1,15 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi There 👋, I am Mustafa Samet Turan<h1>
 
-<!--
-**mustafasameturan/mustafasameturan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">I am Mustafa Samet Turan. I am Management Information Systems student in Ankara Yıldırım Beyazıt University<h4>
 
-<p align="center"><b>I am Mustafa Samet Turan. I am Management Information Systems student in Ankara Yıldırım Beyazıt University<b><p>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [RentACarProject](https://github.com/mustafasameturan/RentACarProject) and [RentACarProject-Frontend](https://github.com/mustafasameturan/RentACar-frontend)
+ 
+- 🌱 I’m currently learning C# and Angular
+
+- 📫 How to reach me: *mustafasameturan@hotmail.com*
+
+- 💻  You can reach and examination all of my [repositories](https://github.com/mustafasameturan?tab=repositories)
+
+<p align="left><a href="https://www.linkedin.com/in/mustafasameturan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mustafasameturan"><img></p>
+
