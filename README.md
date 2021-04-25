@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [RentACarProject](https://github.com/mustafasameturan/RentACarProject) and [RentACarProject-Frontend](https://github.com/mustafasameturan/RentACar-frontend).
  
-- 🌱 I’m currently learning C# and Angular.
+- 🌱 I’m currently learning C#, Java and Angular.
 
 - 📫 How to reach me: *mustafasameturan@hotmail.com*.
 
