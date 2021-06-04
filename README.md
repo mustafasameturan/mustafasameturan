@@ -4,13 +4,15 @@
 
 
 
-- 🔭 I’m currently working on [RentACarProject](https://github.com/mustafasameturan/RentACarProject) and [RentACarProject-Frontend](https://github.com/mustafasameturan/RentACar-frontend).
+- 🔭 I’m currently working on [HRMS](https://github.com/mustafasameturan/HRMS-Project) 
  
-- 🌱 I’m currently learning C#, Java and Angular.
+- 🌱 I’m currently learning C#, Java, Angular, React.
 
 - 📫 How to reach me: *mustafasameturan@hotmail.com*.
 
-- 💻  You can reach and examination all of my [repositories](https://github.com/mustafasameturan?tab=repositories).
+- 💻 You can reach and examination all of my [repositories](https://github.com/mustafasameturan?tab=repositories).
+
+- 📞 Discord Id : mystic#1184
 
 <p align="center"><a href="https://www.linkedin.com/in/mustafasameturan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mustafasameturan"></a></p>
 
