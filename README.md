@@ -8,7 +8,7 @@
  
 - 🌱 I’m currently learning C#, Java, Angular, React.
 
-- 📫 How to reach me: *mustafasameturan@hotmail.com*.
+- 📫 How to reach me: *mustafasameturan@gmail.com*.
 
 - 💻 You can reach and examination all of my [repositories](https://github.com/mustafasameturan?tab=repositories).
 
