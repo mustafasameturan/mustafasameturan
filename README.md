@@ -1,9 +1,10 @@
 <h1 align="center">Hi There 👋, I am Mustafa Samet Turan</h1>
-<h3 align="center">I am Mustafa Samet Turan. I am Management Information Systems student in Ankara Yıldırım Beyazıt University.</h3>
+
+- 💻 I am working Konuşarak Öğren as a Software Developer.
 
 - 📫 How to reach me: *mustafasameturan@gmail.com*.
 
-- 💻 You can reach and examination all of my [repositories](https://github.com/mustafasameturan?tab=repositories).
+- 🛠️ You can reach and examination all of my [repositories](https://github.com/mustafasameturan?tab=repositories).
 
 - 📞 Discord Id : mystic#1968
 
