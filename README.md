@@ -6,7 +6,7 @@
 
 - 🛠️ You can reach and examination all of my [repositories](https://github.com/mustafasameturan?tab=repositories).
 
-- 📞 Discord Id : mystic#1968
+- 📞 Discord Id : mustafasameturan
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mustafasameturan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mustafasameturan"></a>
