@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋, I am Mustafa Samet Turan</h1>
 
-- 💻 I am working Konuşarak Öğren as a Software Developer.
+- 💻 I am working at Konuşarak Öğren as a Software Developer.
 
 - 📫 How to reach me: *mustafasameturan@gmail.com*.
 
