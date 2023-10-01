@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://github.com/mustafasameturan">
-    <img src="https://streak-stats.demolab.com?user=mustafasameturan&theme=transparent&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri" alt="streak"/>
+    <img src="https://streak-stats.demolab.com?user=mustafasameturan&theme=transparent&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="streak"/>
   </a>
 </p>
 
