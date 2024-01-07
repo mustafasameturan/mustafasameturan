@@ -32,3 +32,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafasameturan&hide_progress=false&layout=donut&theme=transparent" alt="languages" />
   </a>
 </p>
+
+<img src="https://raw.githubusercontent.com/mustafasameturan/mustafasameturan/output/snake.svg" alt="Snake animation" />
+
+###
