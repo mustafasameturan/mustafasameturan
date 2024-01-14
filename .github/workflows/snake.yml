@@ -8,7 +8,7 @@ on:
 
   push:
     branches:
-    - main
+    - master
 
 jobs:
   generate:
@@ -21,7 +21,7 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: mustafasameturan
+          github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
 
@@ -31,5 +31,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: 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
-  
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
