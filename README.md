@@ -1,7 +1,9 @@
 <br clear="both">
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=1000&color=F6642F&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Mustafa+Samet!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=1000&color=F6642F&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Mustafa+Samet!" alt="Typing SVG" />  
+  </a>
 </div>
 
 ###
@@ -16,7 +18,7 @@
   <a href="https://twitter.com/msametdev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="mustafasameturan" target="_blank">
+  <a href="https://discordapp.com/users/508228737699938304" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
